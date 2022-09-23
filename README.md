@@ -1,3 +1,4 @@
+
 # calculator-front
 
 ## Project setup
@@ -24,6 +25,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Live version
-See [Calculator Front](http://35.89.169.61:8080).
+Calculator Frontend: http://35.89.169.61:8080
+```
 Username: calculator@email.com
 Password: calculator
+```
